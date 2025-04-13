@@ -1,4 +1,4 @@
 # Tugas Prak Web #
-Nama  : Meyta Zaskiya
-NPM   : 2357051006
+Nama  : Meyta Zaskiya<br>
+NPM   : 2357051006<br>
 Kelas : B
